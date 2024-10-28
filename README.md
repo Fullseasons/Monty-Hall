@@ -6,4 +6,4 @@
 
 wiki : [MontyHall](https://en.wikipedia.org/wiki/Monty_Hall_problem)
 
-**__Langage utilisé :__** C++
+**Langage utilisé :** C++
